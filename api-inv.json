@@ -1,0 +1,16 @@
+{
+  "POOP": {
+    "image": ":poop:",
+    "name": "POOP",
+    "displayName": "Poop",
+    "description": "Why Description?? It's just poop!",
+    "cost": 100
+  },
+  "NERD_S": {
+    "image": "<:nerdsmile:913705380805226536>",
+    "name": "NERD_S",
+    "displayName": "Nerd's Smile",
+    "description": "Nerd's ultimate smile!",
+    "cost": 500
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "DEFAULT": {"name": "DEFAULT", "displayName": "Nerd Bank", "intrest": {"save": 2.10, "borrow": 3.10}, "owner": 0}
+}
