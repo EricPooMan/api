@@ -15,7 +15,7 @@
     "description": "Nerd's ultimate smile!",
     "cost": 500,
     "rariety": 5,
-    "rarietyImage": ":poop:"
+    "rarietyImage": "<:rarietyMythic:925259538679099472>"
   },
   "NUKE": {
     "image": "<:nuke:925238537362739282>",
@@ -24,6 +24,6 @@
     "description": "The only way to wreck a build!",
     "cost": 600000,
     "rariety": 5,
-    "rarietyImage": ":poop:"
+    "rarietyImage": "<:rarietyMythic:925259538679099472>"
   }
 }
