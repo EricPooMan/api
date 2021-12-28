@@ -4,13 +4,26 @@
     "name": "POOP",
     "displayName": "Poop",
     "description": "Why Description?? It's just poop!",
-    "cost": 100
+    "cost": 100,
+    "rarity": 0,
+    "rarietyImage": "<:rarietyUncommon:925241976582967387>"
   },
   "NERD_SMILE": {
     "image": "<:nerdsmile:913705380805226536>",
     "name": "NERD_SMILE",
     "displayName": "Nerd's Smile",
     "description": "Nerd's ultimate smile!",
-    "cost": 500
+    "cost": 500,
+    "rariety": 5,
+    "rarietyImage": ":poop:"
+  },
+  "NUKE": {
+    "image": "<:nuke:925238537362739282>",
+    "name": "NUKE",
+    "displayName": "Nuke",
+    "description": "The only way to wreck a build!",
+    "cost": 600000,
+    "rariety": 5,
+    "rarietyImage": ":poop:"
   }
 }
