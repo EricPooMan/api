@@ -8,9 +8,9 @@
     "rarity": 0,
     "rarietyImage": "<:rarietyCommon:925248194890309642>"
   },
-  "NERD_SMILE": {
+  "NERDSMILE": {
     "image": "<:nerdsmile:913705380805226536>",
-    "name": "NERD_SMILE",
+    "name": "NERDSMILE",
     "displayName": "Nerd's Smile",
     "description": "Nerd's ultimate smile!",
     "cost": 500,
@@ -25,5 +25,14 @@
     "cost": 600000,
     "rariety": 5,
     "rarietyImage": "<:rarietyMythic:925259538679099472>"
+  },
+  "CARROT": {
+    "image": ":carrot:",
+    "name": " CARROT",
+    "displayName": "Carrot",
+    "description": "Carrots, planted by the hard-working farmers.",
+    "cost": 16,
+    "rariety": 0,
+    "rarietyImage": "<:rarietyCommon:925248194890309642>"
   }
 }
